@@ -343,7 +343,7 @@ module.exports = class backup {
         let warningEmbed = new RichEmbed().setTitle(`${warning}  Warning`)
           .setDescription(`Are you sure that you want to delete all your backups?
 __This cannot be undone!__`);
-        message.channel.sendEmbed(warningEmbed).then(msg => {
+        message.channel.send(warningEmbed).then(msg => {
           msg.react("✅").then(() => msg.react("❌"));
 
           let yesFilter = (reaction, user) =>

@@ -16,7 +16,13 @@ module.exports = class {
             
             __**Security**__
             
-            **x!backup**          Create & load backups of your servers
+            **x!backup**          Create,load,delete,list,etc. backups of your servers
+            x!backup create       - Create a backup
+            x!backup delete       - Delete one of your backups
+            x!backup info          - Get information about a backup
+            x!backup list          - Get a list of your backups
+            x!backup load          - Load a backup
+            x!backup purge         - Delete all your backups
             
             __**Others**__
             

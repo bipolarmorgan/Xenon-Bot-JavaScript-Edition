@@ -1,4 +1,7 @@
 {
-    "token": "BOT_TOKNE_HERE",
-    "prefix": ["x!", "!x"]
+    "token": "NzgyMzcwMDE4NjMyOTI1MjA0.X8LM3A.OlnaB5mR9nKywNwF4r8th23tY8g",
+    "prefix": [
+        "x!",
+        "!x"
+    ]
 }

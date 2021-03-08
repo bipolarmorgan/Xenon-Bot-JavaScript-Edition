@@ -1,7 +1,7 @@
 {
-  "name": "xenon-bot-javascript-edition",
+  "name": "xenonomorph",
   "version": "1.0.0",
-  "description": "non-official xenon bot JavaScript edition , a bot for backup discord servers and more features .",
+  "description": "non-official xenon bot JavaScript edition , a bot to backup discord servers and more features ?.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
